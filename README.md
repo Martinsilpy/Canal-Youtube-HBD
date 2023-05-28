@@ -1,2 +1,2 @@
 # Canal Youtube HBD
- Repositório das aulas
+ Repositório das aulas do canal HVAC BIM Department.
